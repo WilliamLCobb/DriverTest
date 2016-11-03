@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{E8928164-6463-ACD1-138B-0DE2F28778F4}") = "DriverTest", "Assembly-CSharp.csproj", "{02A3D037-FF74-5E78-2675-E145EE432234}"
 EndProject
+Project("{E8928164-6463-ACD1-138B-0DE2F28778F4}") = "DriverTest", "Assembly-CSharp-Editor.csproj", "{AB152FED-AA8A-F2DE-CACB-C97803739E3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{02A3D037-FF74-5E78-2675-E145EE432234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02A3D037-FF74-5E78-2675-E145EE432234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02A3D037-FF74-5E78-2675-E145EE432234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB152FED-AA8A-F2DE-CACB-C97803739E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB152FED-AA8A-F2DE-CACB-C97803739E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB152FED-AA8A-F2DE-CACB-C97803739E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB152FED-AA8A-F2DE-CACB-C97803739E3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
