@@ -3,7 +3,7 @@ using System.Collections;
 
 public class MainCameraBehaviour : MonoBehaviour {
 	bool running = false;
-	int speed = 10;
+	int speed = 30;
 
 	public CarBehaviour car;
 

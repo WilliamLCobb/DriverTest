@@ -7,7 +7,6 @@ public class CarBehaviour : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
 	}
 
 	// Update is called once per frame
@@ -22,6 +21,14 @@ public class CarBehaviour : MonoBehaviour {
 			{
 				transform.Rotate (Vector3.up, Time.deltaTime * 50);
 			}
+
+			if (transform.position.x > 10) {
+				transform.position = new Vector3(10, transform.position.y, transform.position.z);
+			} 
+			if (transform.position.x < -10) {
+				transform.position = new Vector3 (-10, transform.position.y, transform.position.z);
+			}
+			transform.Rotate (Vector3.up, Time.deltaTime * -transform.rotation.y * 100);
 		}
 	}
 }
