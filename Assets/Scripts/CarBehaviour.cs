@@ -14,15 +14,14 @@ public class CarBehaviour : MonoBehaviour {
 	void Update () {
 		if (running) {
 			transform.Translate(new Vector3(0,0, -speed * Time.deltaTime));
-		}
-
-		if(Input.GetKey(KeyCode.LeftArrow))
-		{
-			transform.Rotate (Vector3.up, Time.deltaTime * -50);
-		}
-		if(Input.GetKey(KeyCode.RightArrow))
-		{
-			transform.Rotate (Vector3.up, Time.deltaTime * 50);
+			if(Input.GetKey(KeyCode.LeftArrow))
+			{
+				transform.Rotate (Vector3.up, Time.deltaTime * -50);
+			}
+			if(Input.GetKey(KeyCode.RightArrow))
+			{
+				transform.Rotate (Vector3.up, Time.deltaTime * 50);
+			}
 		}
 	}
 }

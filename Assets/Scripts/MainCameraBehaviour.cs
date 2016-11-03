@@ -24,7 +24,7 @@ public class MainCameraBehaviour : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (running) {
-			transform.Translate(new Vector3(0,0, -speed * Time.deltaTime), Space.World);
+			transform.position = new Vector3(0, car.transform.position.y + 8, car.transform.position.z + 18);
 		}
 	}
 }
