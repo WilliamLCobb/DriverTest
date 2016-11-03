@@ -1,0 +1,17 @@
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/UnityEngine.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/UnityEditor.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Mono.Cecil.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Unity.DataContract.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/willcobb/Dropbox/Unity/DriverTest/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/obj/Debug/Assembly-CSharp.dll
+/Users/willcobb/Dropbox/Unity/DriverTest/obj/Debug/Assembly-CSharp.dll.mdb

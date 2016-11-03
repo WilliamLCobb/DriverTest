@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{E8928164-6463-ACD1-138B-0DE2F28778F4}") = "DriverTest", "Assembly-CSharp.csproj", "{02A3D037-FF74-5E78-2675-E145EE432234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{02A3D037-FF74-5E78-2675-E145EE432234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A3D037-FF74-5E78-2675-E145EE432234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A3D037-FF74-5E78-2675-E145EE432234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A3D037-FF74-5E78-2675-E145EE432234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
